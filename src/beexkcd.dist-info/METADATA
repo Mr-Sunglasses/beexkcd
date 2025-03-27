@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.22
+Name: beexkcd
+Formal-Name: beexkcd
+App-ID: me.kanishkk.beexkcd
+Version: 0.0.1
+Home-page: https://kanishkk.me/beexkcd
+Download-URL: https://kanishkk.me/beexkcd
+Author: Jane Developer
+Author-email: Resources
+Summary:  xkcd gui reader written in beeware.
